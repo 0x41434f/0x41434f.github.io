@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # 0x41434f
@@ -16,11 +16,14 @@ I am the founder of [Stratification Labs](https://psykicksv1.vercel.app/), where
 
 These essays document my journey from a personal crisis to a new mission in mental health. They are best read in order.
 
+<ul>
 {% for post in site.posts reversed %}
-**{{ post.date | date: "%B %-d, %Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
-{% if post.summary %}*{{ post.summary }}*{% endif %}
-
+  <li>
+    <strong>{{ post.date | date: "%B %-d, %Y" }}</strong> — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% if post.summary %}<br><em>{{ post.summary }}</em>{% endif %}
+  </li>
 {% endfor %}
+</ul>
 
 ---
 
