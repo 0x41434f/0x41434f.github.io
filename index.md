@@ -1,10 +1,27 @@
-# 0x41434f.github.io
+---
+layout: home
+---
 
-## Hi there 👋
+# 0x41434f
 
-I am a software engineer and mental health worker with a strong interest in **Computational Psychiatry** and **Health Policy**.
+I am a software engineer and mental health worker building toward a career in Computational Psychiatry and Health Policy.
 
-- 🔭 I'm currently finishing my medical school prerequisites with the goal of becoming a **Consultation-Liaison Psychiatrist**.
-- 🌱 I want to learn more about how psychiatry, mental health science, and healthcare policies shape patient care.
-- 💡 My plan is to use my background (BS in CS with a Cybersecurity focus, plus 7+ years as an engineer and venture capital analyst) to help make sense of clinical data and improve behavioral healthcare.
-- 💬 Feel free to ask me about my time as a **Mental Health Worker** or my thoughts on mental health policy.
+I am currently finishing my medical school prerequisites with the goal of becoming a Consultation-Liaison Psychiatrist. My background includes a BS in Computer Science with a Cybersecurity focus, 7+ years as an engineer and venture capital analyst, and hundreds of hours on the floor of an acute psychiatric hospital.
+
+I am the founder of [Stratification Labs](https://psykicksv1.vercel.app/), where we build [Psykick](https://psykicksv1.vercel.app/) and [Psychify](https://psychify-dz8w.vercel.app/) to reduce administrative burden and end trial-and-error psychiatry.
+
+---
+
+## Essays
+
+These essays document my journey from a personal crisis to a new mission in mental health. They are best read in order.
+
+{% for post in site.posts reversed %}
+**{{ post.date | date: "%B %-d, %Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
+{% if post.summary %}*{{ post.summary }}*{% endif %}
+
+{% endfor %}
+
+---
+
+*Feel free to reach out if you want to talk about mental health policy, computational psychiatry, or what it is like to work the floor of a psychiatric hospital.*
