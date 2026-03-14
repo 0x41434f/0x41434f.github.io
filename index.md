@@ -12,6 +12,15 @@ I am the founder of [Stratification Labs](https://0x41434f.github.io/essays/the-
 
 ---
 
+## Recent essays (new)
+
+- February 15, 2026 — The Policy Floor
+  - What surprised me was not how broken the system is. It was how precisely incentives produce outcomes like short visits, prior auth delays, and coverage gaps.
+- January 15, 2026 — The Machine Doesn't Know
+  - After a patient death with an active CPAP, the hospital adopted safety protocols that could have existed before.
+- October 10, 2025 — Understanding Involuntary Holds
+  - The legal code defines custody, but not the care pathway; that gap is where patients get lost.
+
 ## Essays
 
 These essays document my journey from a personal crisis to a new mission in mental health. They are best read in order.
