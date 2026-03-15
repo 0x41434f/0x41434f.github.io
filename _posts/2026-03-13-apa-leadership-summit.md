@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What the APA Leadership Summit Taught Me About"
+title: "What the APA Leadership Summit Taught Me"
 date: 2026-03-13
 summary: "Three days in Montgomery validated what months on the floor had been telling me. The technology and the policy have to move together."
 ---
