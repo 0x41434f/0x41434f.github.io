@@ -31,5 +31,5 @@ These essays document my journey from a personal crisis to a new mission in ment
 
 ### Connect
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com) [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/yourhandle) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourhandle)
-*
+[🔴](https://youtube.com/yourchannel) [✉️](mailto:your@email.com) [🐦](https://x.com/yourhandle) [📷](https://instagram.com/yourhandle) [🔗](https://linkedin.com/in/yourname) [🐙](https://github.com/yourhandle)
+

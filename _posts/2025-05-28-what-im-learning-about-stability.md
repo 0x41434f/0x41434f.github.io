@@ -25,7 +25,7 @@ I texted him afterward to ask a direct question: did his experience make him fee
 
 Here was a person with over fourteen years of tech experience and a U.S. master's degree who consistently gets to the final interview stages with top companies like OpenAI and Anthropic, yet repeatedly falls short of an offer. His skills had not deteriorated. The market had shifted underneath him.
 
-His situation made me pay closer attention to what was happening in the broader economy. I started reading about the impact of AI on the job market, and the picture was sobering. Some companies had adopted what amounted to an AI-first hiring policy, checking whether AI could handle a task before looking for a human to do it. One tech executive said his company had stopped hiring below the mid-level L5 engineer because AI could handle the more junior work. Dario Amodei, the CEO of Anthropic, gave an even sharper warning, saying AI could potentially eliminate half of all entry-level white-collar jobs within five years.
+His situation made me pay closer attention to what was happening in the broader economy. I started reading about the impact of AI on the job market, and the picture was sobering. Some companies had adopted what amounted to an AI-first hiring policy, checking whether AI could handle a task before looking for a human to do it.[^1] One tech executive said his company had stopped hiring below the mid-level L5 engineer because AI could handle the more junior work. Dario Amodei, the CEO of Anthropic, gave an even sharper warning, saying AI could potentially eliminate half of all entry-level white-collar jobs within five years.[^2]
 
 As someone who works with this technology as both a developer and a consumer, I have seen these trends play out firsthand. My own software and consulting business started losing clients who found they could use AI for services we had offered. With revenue declining, I had to part ways with three members of my team. These worries were on my mind earlier this year, and the anxiety they produced was a major reason for my sleep problems.
 
@@ -40,3 +40,8 @@ But here is what stays with me. The man I met at Panera did everything right. He
 I count myself lucky. The conversations with the date I mentioned, who works in the mental health field, were a huge help in getting me to take my own well-being seriously. I also benefit from ongoing therapy and the unwavering support of my family and two closest friends. But seeing firsthand how fragile stability can be, even for someone as capable and hardworking as the man at Panera, reinforced something I keep coming back to. Money is not the same as happiness. But having enough to cover your needs and feel stable removes a deep layer of stress. If that stress is not dealt with, it can make every other part of life feel impossible to manage.
 
 The distance between stability and crisis is shorter than most of us think. And for a lot of people right now, that distance is closing.
+
+---
+
+[^1]: New York Times and Axios reporting on AI impact on the job market and AI-first hiring policies, 2025.
+[^2]: Amodei, D. Interview with [Axios](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic), May 28, 2025. See also [CNN](https://www.cnn.com/2025/05/29/tech/ai-anthropic-ceo-dario-amodei-unemployment) and [Fortune](https://fortune.com/2025/05/28/anthropic-ceo-warning-ai-job-loss/) coverage.
