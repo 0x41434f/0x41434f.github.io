@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Policy Floor"
-date: 2026-02-15
+date: 2026-03-03
 summary: "What surprised me was not how broken the system is. It was how precisely the incentives are designed to produce exactly the outcomes I see every night."
 ---
 
